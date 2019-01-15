@@ -4,6 +4,6 @@ function addElementToEndOfArray(element, array){
   return [...array, element]
 }
 
-function addElementToEndOfArray(element, array){
+function destructivelyAddElementToBeginningOfArray(element, array){
   return [...array, element]
 }
