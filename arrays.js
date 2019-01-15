@@ -4,3 +4,6 @@ function addElementToEndOfArray(element, array){
   return [...array, element]
 }
 
+function addElementToEndOfArray(element, array){
+  return [...array, element]
+}
