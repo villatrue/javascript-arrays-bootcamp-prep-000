@@ -1,3 +1,3 @@
 var chocolateBars = ["snickers", "hundred grand", "kit kat", "skittles"];
 
-function addElementToEndOfArray()
+function addElementToEndOfArray(element, array)
